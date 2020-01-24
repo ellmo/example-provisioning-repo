@@ -1,0 +1,13 @@
+name: "asdasdasd"
+description: "AsdAsdAsd description"
+slack: "#project-asd"
+jira: "DEVOPSDESK"
+pm: "Frederick Ipsum"
+
+dashboards:
+  - https
+  - alerts
+
+url:
+  - certonly:
+    - "https://asdasdasd.staging.example.com/"

@@ -1,0 +1,22 @@
+name: "qweqweqwe"
+description: "QweQweQwe"
+slack: "#project-qwe"
+jira: "QWE"
+pm: "Jeffrey Lorem"
+
+dashboards:
+  - dash1
+  - dash2
+  - node
+  - fat32
+
+url:
+  - info:
+    - "https://qwe.staging.example.com/"
+    - "https://qwe.com/"
+
+people:
+  - "john.doe"
+
+editors:
+  - "john.doe"
